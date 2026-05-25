@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "genal"
+version = "1.0.0"
+description = "Genal Activation Family — Learnable activation functions for PyTorch"
+readme = "README.md"
+license = { text = "GPL-3.0" }
+authors = [
+    { name = "Genal Ediso Lombano Pineda", email = "genallombano@gmail.com" }
+]
+keywords = ["activation function", "deep learning", "neural networks", "pytorch", "learnable"]
+requires-python = ">=3.8"
+dependencies = ["torch>=1.9.0"]
+
+[project.urls]
+Homepage = "https://github.com/GenalFF/genal-activation"
+Paper    = "https://zenodo.org/records/20304195"
+ORCID    = "https://orcid.org/0009-0009-6495-4085"
