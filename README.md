@@ -6,10 +6,6 @@
 
 ](https://www.gnu.org/licenses/gpl-3.0)
 <img width="2034" height="1409" alt="Image" src="https://github.com/user-attachments/assets/e5b888b5-4d1e-4bbb-a50e-2d299ac89d33" />
-## 📦 Quick Start
-
-Install the package directly via PyPI:
-```bash
 pip install genal-activation
 
 [
