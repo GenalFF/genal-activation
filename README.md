@@ -5,6 +5,7 @@
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 ](https://www.gnu.org/licenses/gpl-3.0)
+<img width="2034" height="1409" alt="Image" src="https://github.com/user-attachments/assets/e5b888b5-4d1e-4bbb-a50e-2d299ac89d33" />
 [
 
 ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20304195.svg)
