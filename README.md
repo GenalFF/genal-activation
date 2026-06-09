@@ -6,6 +6,7 @@
 
 ](https://www.gnu.org/licenses/gpl-3.0)
 <img width="2034" height="1409" alt="Image" src="https://github.com/user-attachments/assets/e5b888b5-4d1e-4bbb-a50e-2d299ac89d33" />
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/aa8a982c-60d9-42e0-b206-a66c9b82131c" />
 pip install genal-activation
 
 [
