@@ -27,7 +27,9 @@ A learnable activation function that adapts its curvature to each task. Outperfo
 
 El comportamiento estadístico y matemático del algoritmo ha sido evaluado rigurosamente mediante múltiples pruebas modulares independientes, demostrando una notable estabilidad de gradientes y la prevención del fenómeno de neuronas muertas:
 
-* **Clasificación de Imágenes (CIFAR-10)**: Alcanza un **81.91% de precisión**, superando a la función tradicional ReLU en un **+7.18%**.
+* **Clasificación de Imágenes (CIFAR-10)**: Función Mejor precisión (test) Diferencia
+ReLU (baseline) 92.07% –
+GenalShift 92.33% +0.26%
 * **Problemas de Física Matemática (Navier-Stokes)**: Logró una pérdida de error (**Loss**) **44 veces menor** en comparación con ReLU durante las pruebas de simulación de fluidos dinámicos.
 * **Diagnóstico Médico Predictivo**: Implementada con éxito en modelos de clasificación de datos clínicos, alcanzando métricas estables superiores al 95% de precisión (Parkinson: 97.44%, Oncología: 97.37%, Cardiología: 95.08%).
 
